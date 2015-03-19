@@ -1,2 +1,2 @@
 # hello-world
-read the name man
+github tutorial repo
